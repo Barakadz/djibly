@@ -103,7 +103,7 @@ class _AuthPageState extends State<AuthPage>
             child: SingleChildScrollView(
               child: Column(
                 children: <Widget>[
-                  SizedBox(
+                   SizedBox(
                     height: 32,
                   ),
                   Image.asset(
@@ -142,6 +142,7 @@ class _AuthPageState extends State<AuthPage>
               TextFormField(
                   keyboardType: TextInputType.phone,
                   controller: _phoneController,
+                  maxLength: 10,
                   onFieldSubmitted: (String value) {
                     sendOTP();
                   },
