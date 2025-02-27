@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102490073065",
+    "project_id": "djibly-946e6",
+    "storage_bucket": "djibly-946e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102490073065:android:be5db9b2c61624db894d78",
+        "android_client_info": {
+          "package_name": "dz.djezzy.djibly.pos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMkSruGr4XcPt6zsv54_mt0EcDCsUWUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102490073065:android:b3230dceff87f674894d78",
+        "android_client_info": {
+          "package_name": "dz.djezzy.djibly.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMkSruGr4XcPt6zsv54_mt0EcDCsUWUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

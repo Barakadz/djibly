@@ -1,0 +1,3 @@
+extension DateExtension on DateTime {
+
+}

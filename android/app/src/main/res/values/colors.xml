@@ -1,0 +1,4 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="notification_icon_color">#E31D1A</color>
+</resources>
